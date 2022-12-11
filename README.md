@@ -8,24 +8,14 @@
 
 ## About the project
 
-It is an analysis of water consumption measured by meters with the factors: industry, domestic and tourism according to the geographical region during the course of 2019 - 2021:
+The project consists of analysis and prediction of water consumption measured by meters with the factors: industry, domestic and tourism according to the geographical region during the course of 2019 - 2021:
+
 our website link:
-> https://junjielyu13.github.io/AiguaDeBarcelona_DataChallenge
-## Preview:
+> https://junjielyu13.github.io/AiguaDeBarcelona_DataChallenge> 
 
-### Cover:
+## AI model used:
+ ### NeuralProphet: A Neural Network based Time-Series model, inspired by  and , built on PyTorch.
 
-![image](./demo/cover1.png)
-![image](./demo/cover2.png)
-
-### Data analysis
-
-![image](./demo/grafic1.png)
-
-### Artificial Intelligence Model
-
-![image](./demo/model.png)
-![image](./demo/model2.png)
 
 ## Contributors
 
@@ -34,3 +24,13 @@ our website link:
 ## License
 
 > [@Apache-2.0 (the "License")](https://github.com/junjielyu13/AiguaDeBarcelona_DataChallenge/blob/main/LICENSE)
+
+## Cite
+@misc{triebe2021neuralprophet,
+      title={NeuralProphet: Explainable Forecasting at Scale}, 
+      author={Oskar Triebe and Hansika Hewamalage and Polina Pilyugina and Nikolay Laptev and Christoph Bergmeir and Ram Rajagopal},
+      year={2021},
+      eprint={2111.15397},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
