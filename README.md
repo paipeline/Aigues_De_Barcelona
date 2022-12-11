@@ -8,7 +8,7 @@
 
 ## About the project
 
-The project consists of analysis and prediction of water consumption measured by meters with the factors: industry, domestic and tourism according to the geographical region during the course of 2019 - 2021:
+The project consists of the data analysis and the prediction of water consumption measured by meters with the factors: industry, domestic and tourism according to the geographical region during the course of 2019 - 2021:
 
 our website link:
 > https://junjielyu13.github.io/AiguaDeBarcelona_DataChallenge> 
