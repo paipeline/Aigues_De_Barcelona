@@ -1,6 +1,6 @@
-## Finalist project of the 1º Edition in #Aigües de Barcelona Data Challenge
+## <div align=center> Finalist project of the 1º Edition in #Aigües de Barcelona Data Challenge </div>
 
-# <div align=center> AiguaDeBarcelona_DataChallenge </div>
+# <div align=center> Aigua De Barcelona Data Challenge </div>
 
 <div align=center>
     <img src="./demo/logo.png" width=30% />
