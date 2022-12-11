@@ -19,7 +19,7 @@ our website link:
 
 ## Contributors
 
-> [@Project leader: Pai Peng](https://github.com/paipeline), [@ Web designer: JunjieLi](https://github.com/junjielyu13), [@ Data analyst: YinghongChen](https://github.com/doufu1402)，[@ Assistant: Feiyang Wang](https://github.com/fwang02)
+> [@Project leader: Pai Peng](https://github.com/paipeline), [@ Web designer: JunjieLi](https://github.com/junjielyu13), [@ Data analyst: YinghongChen](https://github.com/doufu1402)，[@ Assistance: Feiyang Wang](https://github.com/fwang02)
 
 ## License
 
