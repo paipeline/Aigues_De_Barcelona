@@ -11,7 +11,7 @@
 The project aims to analyze the data and predict the water consumption measured by the water meter with the factors of industry, domestic and commercial according to the geographical region during the course of 2019 - 2021:
 
 our website link:
-> https://junjielyu13.github.io/AiguaDeBarcelona_DataChallenge> 
+> https://junjielyu13.github.io/AiguaDeBarcelona_DataChallenge/
 
 ## AI model used:
  ### NeuralProphet: A Neural Network based Time-Series model, inspired by  and , built on PyTorch.
